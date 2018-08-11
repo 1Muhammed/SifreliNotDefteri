@@ -18,7 +18,6 @@
         </activity>
         <activity android:name=".ikincisayfa" />
         <activity android:name=".notlar" />
-        <activity android:name=".notekle"></activity>
     </application>
 
 </manifest>
